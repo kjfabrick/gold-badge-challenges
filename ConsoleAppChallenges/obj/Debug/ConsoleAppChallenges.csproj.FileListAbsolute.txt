@@ -1,0 +1,2 @@
+C:\Users\Tammy\source\repos\ConsoleAppChallenges\ConsoleAppChallenges\obj\Debug\ConsoleAppChallenges.csprojAssemblyReference.cache
+C:\Users\Tammy\source\repos\ConsoleAppChallenges\ConsoleAppChallenges\obj\Debug\ConsoleAppChallenges.csproj.CoreCompileInputs.cache
